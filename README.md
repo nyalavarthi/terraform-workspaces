@@ -16,3 +16,6 @@ terraform workspace select "dev"
 terraform plan 
 terraform apply
 ```
+
+
+Refe to this article for indepth explanation of workspaces and this repo in perticular. http://i-cloudconsulting.com/terraform-workspaces/
